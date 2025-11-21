@@ -1,0 +1,123 @@
+PRODUTOS COM ESTOQUE > 5 CAIXAS
+================================================================================
+
+1. ALG. BOLAS BRANCA COTTON LINE 80X30G
+   Código: 5829 | Estoque: 255 CX | Preço: R$ 100.00
+   Marca: LINE
+
+2. BEB WHISKY JOHNNIE WALKER WHITE WALKER 7
+   Código: 2467 | Estoque: 53 UN | Preço: R$ 105.00
+   Marca: WALKER
+
+3. BEB WHISKY JOHNNNIE WALKER BLENDERS BATC
+   Código: 54262 | Estoque: 72 UN | Preço: R$ 250.00
+   Marca: WALKER
+
+4. BOM AR CHEIRINHO DE TALCO 12X360ML
+   Código: 4000 | Estoque: 318 CX | Preço: R$ 112.00
+   Marca: WICK
+
+5. CAFE MARATA ALMOFADA 20X250G
+   Código: 1656 | Estoque: 3649 FD | Preço: R$ 285.00
+   Marca: MARATÁ
+
+6. ESC ED ORAL B MEDIA PRO 6 ESTOJO C/ 12 C
+   Código: 938861 | Estoque: 326 CX | Preço: R$ 180.00
+   Marca: B
+
+7. ESMALTE IMPALA IM PREVISIVEL DUO COLOR
+   Código: 939118 | Estoque: 11 CX | Preço: R$ 335.00
+   Marca: S/A Produ
+
+8. ESMALTE IMPALA IM PREVISIVEL DUO COLOR
+   Código: 939120 | Estoque: 12 CX | Preço: R$ 335.00
+   Marca: S/A Produ
+
+9. ESMALTE IMPALA IM PREVISIVEL DUO COLOR
+   Código: 939117 | Estoque: 12 CX | Preço: R$ 335.00
+   Marca: S/A Produ
+
+10. ESMALTE IMPALA IM PREVISIVEL DUO COLOR
+   Código: 939121 | Estoque: 12 CX | Preço: R$ 335.00
+   Marca: S/A Produ
+
+11. ESMALTE IMPALA IM PREVISIVEL DUO COLOR
+   Código: 939119 | Estoque: 12 CX | Preço: R$ 335.00
+   Marca: S/A Produ
+
+12. ESMALTE IMPALA IM PREVISIVEL DUO COLOR
+   Código: 939116 | Estoque: 12 CX | Preço: R$ 335.00
+   Marca: S/A Produ
+
+13. NIELY GOLD CR PENT CACHOS DEFINI 12X250G
+   Código: 938993 | Estoque: 7 CX | Preço: R$ 65.00
+   Marca: GOLD
+
+14. PAPEL HIG LEVE F. S. NT 16X4 30M
+   Código: 939069 | Estoque: 1205 FD | Preço: R$ 39.00
+   Marca: MAIS
+
+15. PAPEL HIG ROSE F. S. 16X4 30M
+   Código: 939070 | Estoque: 1178 FD | Preço: R$ 40.00
+   Marca: MAIS
+
+16. TALCO BARLA 24X80G
+   Código: 1041 | Estoque: 207 CX | Preço: R$ 68.00
+   Marca: DE ROSAS
+
+17. TINT COR&amp;TON 1.00 PRETO AZULADO C/6
+   Código: 939087 | Estoque: 369 CX | Preço: R$ 52.00
+   Marca: & TON
+
+18. TINT COR&amp;TON 1.110 PRETO ONIX C/6
+   Código: 939098 | Estoque: 243 CX | Preço: R$ 52.00
+   Marca: & TON
+
+19. TINT COR&amp;TON 1.7 PRETO AZUL ESPECIAL
+   Código: 939088 | Estoque: 322 CX | Preço: R$ 52.00
+   Marca: & TON
+
+20. TINT COR&amp;TON 2.00 PRETO C/6
+   Código: 939086 | Estoque: 157 CX | Preço: R$ 52.00
+   Marca: & TON
+
+21. TINT COR&amp;TON 2.1 PRETO JABUTICABA C/
+   Código: 939089 | Estoque: 349 CX | Preço: R$ 52.00
+   Marca: & TON
+
+22. TINT COR&amp;TON 2.8 AZULADO ESPELHADO C
+   Código: 939099 | Estoque: 139 CX | Preço: R$ 52.00
+   Marca: & TON
+
+23. TINT COR&amp;TON 3.00 CASTANHO ESCURO C/
+   Código: 939090 | Estoque: 125 CX | Preço: R$ 52.00
+   Marca: & TON
+
+24. TINT COR&amp;TON 4.00 CASTANHO MEDIO C/6
+   Código: 939091 | Estoque: 179 CX | Preço: R$ 52.00
+   Marca: & TON
+
+25. TINT COR&amp;TON 6.0 LOURO ESCURO C/6
+   Código: 939092 | Estoque: 141 CX | Preço: R$ 52.00
+   Marca: & TON
+
+26. TINT COR&amp;TON 6.1 LOURO ESCURO ACIZEN
+   Código: 939093 | Estoque: 173 CX | Preço: R$ 52.00
+   Marca: & TON
+
+27. TINT COR&amp;TON 6.41 CAST ILUM CAFE C/6
+   Código: 939094 | Estoque: 153 CX | Preço: R$ 52.00
+   Marca: & TON
+
+28. TINT COR&amp;TON 6.7 CHOCOLATE C/6
+   Código: 939095 | Estoque: 89 CX | Preço: R$ 52.00
+   Marca: & TON
+
+29. TINT COR&amp;TON 7.10 LOURO CINZA MEDIO
+   Código: 939096 | Estoque: 104 CX | Preço: R$ 52.00
+   Marca: & TON
+
+30. TINT COR&amp;TON 8.26 MARSALA ACAI C/6
+   Código: 939097 | Estoque: 60 CX | Preço: R$ 52.00
+   Marca: & TON
+
