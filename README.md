@@ -45,23 +45,29 @@ python modules/gerador.py
 ```
 TABELADODIA/
 │
-├── app.py                      # Interface gráfica principal
-├── requirements.txt            # Dependências do projeto
-├── README.md                   # Este arquivo
+├── app.py                      # 🖥️ Interface Gráfica Principal
+├── requirements.txt            # 📦 Dependências do Projeto
+├── README.md                   # 📖 Documentação
 │
-├── modules/                    # Módulos do sistema
+├── modules/                    # 📂 Módulos (Arquitetura Modular)
 │   ├── extrator.py            # Extração de dados do PDF
 │   ├── gerador.py             # Geração do DOCX
 │   └── conversor.py           # Conversão DOCX → PDF
 │
-├── templates/                  # Templates
-│   └── OFERTA-DO-DIA.docx     # Template base
+├── scripts/                    # 🛠️ Scripts de Desenvolvimento/Teste
+│   ├── extrair_produtos.py    # Script standalone de extração
+│   ├── ler_pdf_ergon.py       # Análise do PDF do ERGON
+│   └── teste_completo.py      # Teste completo do sistema
 │
-└── output/                     # Arquivos gerados
-    ├── produtos_filtrados.txt
-    ├── OFERTA-DO-DIA.docx
-    └── OFERTA-DO-DIA.pdf
+├── output/                     # 📄 Arquivos Gerados
+│   ├── produtos_filtrados.txt # Lista de produtos extraídos
+│   ├── OFERTA-DO-DIA.docx    # Documento Word gerado
+│   └── OFERTA-DO-DIA.pdf     # PDF final
+│
+├── OFERTA-DO-DIA.docx         # 📝 Template do usuário
+└── [DDMMYYYY].PDF              # PDF do ERGON (automático)
 ```
+
 
 ## ⚙️ Configuração
 
